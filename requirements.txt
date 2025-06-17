@@ -1,1 +1,2 @@
 matplotlib>=0.0.0
+cartopy>=0.0.0
